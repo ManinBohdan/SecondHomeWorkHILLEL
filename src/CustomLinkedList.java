@@ -63,5 +63,4 @@ public class CustomLinkedList<T> implements CustomList, CustomDeque{
     public Object removeLast() {
         return null;
     }
-
 }

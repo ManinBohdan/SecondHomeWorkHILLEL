@@ -4,5 +4,4 @@ public interface CustomList {
 
     public Object get(int index);
 
-
 }

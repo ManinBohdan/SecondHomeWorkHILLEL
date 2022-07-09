@@ -3,6 +3,7 @@ public class Node<T> {
     Node<T> next;
     Node<T> prev;
 
+
     Node(Node<T> prev, T element, Node<T> next) {
         this.item = element;
         this.next = next;

@@ -1,4 +1,3 @@
-
 public interface CustomDeque {
 
     public void addFirst(Object o);

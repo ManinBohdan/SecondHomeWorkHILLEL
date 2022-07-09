@@ -5,7 +5,6 @@ public class Main {
         LinkedList.addFirst("Liza");
         LinkedList.addLast("Mihael");
 
-        
         System.out.println(LinkedList.get(0));
         System.out.println(LinkedList.get(1));
         System.out.println(LinkedList.get(2));
